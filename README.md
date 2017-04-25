@@ -20,7 +20,7 @@ Refer to the steps outlined in DEPLOY.md for information to help with the initia
 
 After you've installed Tarbell, you can install the CPD project with the following command:
 
-    tarbell install git@bitbucket.org:projectlargo/cpd-settlements.git
+    tarbell install https://github.com/INN/cpd-settlements
 
 Tarbell will prompt you: "Where would you like to create this project? [/Users/yourusernamegoeshere/tarbell/cpd-settlements]"
 
